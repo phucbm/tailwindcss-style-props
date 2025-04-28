@@ -1,0 +1,41 @@
+{
+  "name": "@phucbm/tailwindcss-style-props",
+  "version": "0.1.0",
+  "description": "Tailwind CSS plugin for easily adding multiple inline style properties using the style utility",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phucbm/tailwindcss-style-props.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "css",
+    "style",
+    "inline-styles",
+    "props"
+  ],
+  "author": "Phuc Bui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phucbm/tailwindcss-style-props/issues"
+  },
+  "homepage": "https://github.com/phucbm/tailwindcss-style-props#readme",
+  "peerDependencies": {
+    "tailwindcss": ">=3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "tailwindcss": "^3.3.5"
+  }
+}
