@@ -1,5 +1,8 @@
 # @phucbm/tailwindcss-style-props
 
+[![release](https://badgen.net/github/release/phucbm/tailwindcss-style-props/)](https://www.npmjs.com/package/@phucbm/tailwindcss-style-props)
+[![npm weekly download](https://badgen.net/npm/dm/@phucbm/tailwindcss-style-props)](https://www.npmjs.com/package/@phucbm/tailwindcss-style-props)
+
 A Tailwind CSS plugin that enables easy addition of multiple inline style properties using a custom `style` utility.
 
 ## Installation
