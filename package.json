@@ -1,6 +1,6 @@
 {
   "name": "@phucbm/tailwindcss-style-props",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tailwind CSS plugin for easily adding multiple inline style properties using the style utility",
   "main": "index.js",
   "type": "module",
