@@ -1,7 +1,12 @@
 # @phucbm/tailwindcss-style-props
 
-[![release](https://badgen.net/github/release/phucbm/tailwindcss-style-props/)](https://www.npmjs.com/package/@phucbm/tailwindcss-style-props)
-[![npm weekly download](https://badgen.net/npm/dm/@phucbm/tailwindcss-style-props)](https://www.npmjs.com/package/@phucbm/tailwindcss-style-props)
+[![npm version](https://badgen.net/npm/v/@phucbm/tailwindcss-style-props?icon=npm)](https://www.npmjs.com/package/@phucbm/tailwindcss-style-props)
+[![npm downloads](https://badgen.net/npm/dm/@phucbm/tailwindcss-style-props?icon=npm)](https://www.npmjs.com/package/@phucbm/tailwindcss-style-props)
+[![npm dependents](https://badgen.net/npm/dependents/@phucbm/tailwindcss-style-props?icon=npm)](https://www.npmjs.com/package/@phucbm/tailwindcss-style-props)
+[![github stars](https://badgen.net/github/stars/phucbm/tailwindcss-style-props?icon=github)](https://github.com/phucbm/tailwindcss-style-props/)
+[![jsdelivr npm rank](https://badgen.net/jsdelivr/rank/npm/@phucbm/tailwindcss-style-props?icon=npm)](https://www.npmjs.com/package/@phucbm/tailwindcss-style-props)
+[![github license](https://badgen.net/github/license/phucbm/tailwindcss-style-props?icon=github)](https://github.com/phucbm/tailwindcss-style-props/blob/main/LICENSE)
+[![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community)
 
 A Tailwind CSS plugin that enables easy addition of multiple inline style properties using a custom `style` utility.
 
